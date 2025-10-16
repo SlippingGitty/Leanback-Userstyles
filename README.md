@@ -1,7 +1,12 @@
-<img width="686" height="311.5" alt="YTLEANBT_upscayl_4x_digital-art-4x" src="https://github.com/user-attachments/assets/214f7d63-b6f1-4e30-9055-2b60a0de09c4" />
+<img width="6745" height="862" alt="fullcolor_white_57_2x_v2" src="https://github.com/user-attachments/assets/da8fb7f8-060f-4557-b52c-da5d5c3c2495" />
 
 
-A collection of userstyles for the Leanback YouTube interface. Primarily meant to be used with VacuumTube, a YouTube Leanback client for Windows, macOS, and Linux.
+<div align="center">
+
+A collection of userstyles for the Leanback YouTube interface.
+Primarily meant to be used with **VacuumTube**, a YouTube Leanback client for Windows, macOS, and Linux.
+
+</div>
 
 #### Disclaimer: None of these userstyles include userCSS/user.css metadata. These have been built with VacuumTube in mind. Feel free to redistribute with metadata + credit. If you modify any of these themes to the extent of overhauling them, please rename it, and please still credit me. 
 
