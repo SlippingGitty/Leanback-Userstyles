@@ -8,7 +8,7 @@ Primarily meant to be used with **VacuumTube**, a YouTube Leanback client for Wi
 
 </div>
 
-#### Disclaimer: None of these userstyles include userCSS/user.css metadata. These have been built with VacuumTube in mind. Feel free to redistribute with metadata + credit. If you modify any of these themes to the extent of overhauling them, please rename it, and please still credit me. 
+#### Disclaimer: None of these themes include userCSS/user.css metadata.
 
 ## How to use with VacuumTube
 - Install [VacuumTube here](https://github.com/shy1132/VacuumTube).
