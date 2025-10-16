@@ -29,4 +29,5 @@ Primarily meant to be used with **VacuumTube**, a YouTube Leanback client for Wi
     - `~/.config/VacuumTube/userstyles/`
     - or for Flatpak, `~/.var/app/rocks.shy.VacuumTube/config/VacuumTube/userstyles/`
 
-There doesn't appear to be an option to enable and disable specific themes at this time being, so please use file at a time.
+There doesn't appear to be an option to enable and disable specific themes at this time being, so please use one file at a time.
+
