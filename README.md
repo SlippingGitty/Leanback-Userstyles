@@ -10,6 +10,8 @@ A collection of userstyles for the Leanback YouTube interface. Primarily meant t
   - Navigate to the Settings "cog" icon on the bottom left corner.
   - Scroll to the "Custom CSS/Userstyles" tab, and select "On".
 
+##### In this repo, each folder has a .css file & a preview image. Download the .css file of the respective theme, and put that .css file in VacuumTube's "userstyles" folder.
+
 - **Windows**
   - Open File Explorer, and navigate to `APPDATA%\VacuumTube\userstyles\`
  
@@ -21,7 +23,5 @@ A collection of userstyles for the Leanback YouTube interface. Primarily meant t
   - Open your Files Manager and navigate either to
     - `~/.config/VacuumTube/userstyles/`
     - or for Flatpak, `~/.var/app/rocks.shy.VacuumTube/config/VacuumTube/userstyles/`
-
-##### In this repo, each folder has a .css file & a preview image. Download the .css file of the respective theme, and put that .css file in the "userstyles" folder.
 
 There doesn't appear to be an option to enable and disable specific themes at this time being, so please use file at a time.
