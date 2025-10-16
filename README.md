@@ -21,3 +21,5 @@ A collection of userstyles for the Leanback YouTube interface. Primarily meant t
     - or for Flatpak, `~/.var/app/rocks.shy.VacuumTube/config/VacuumTube/userstyles/`
 
 ##### In this repo, each folder has a .css file & a preview image. Download the .css file of the respective theme, and put that .css file in the "userstyles" folder.
+
+There doesn't appear to be an option to enable and disable specific themes at this time being, so please use file at a time.
